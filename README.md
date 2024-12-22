@@ -34,11 +34,5 @@ Setup Instructions
    git clone https://github.com/MananSharma001/currency-tracker-application.git  
    cd currency-tracker-application
 
-2. Database Setup
-Open phpMyAdmin in your browser (usually at http://localhost/phpmyadmin).
-Create a database named currency_tracker_db.
-Import the provided database.sql file located in the database/ folder to set up the necessary tables.
 
-3. Configure PHP Files
-Ensure all PHP files point to the correct database credentials in the connection section.
 
